@@ -1,0 +1,13 @@
+# Project exclude paths
+/loki/node_modules/sift/src/core.d.ts
+/loki/node_modules/sift/src/core.js
+/loki/node_modules/sift/src/core.js.map
+/loki/node_modules/sift/src/index.d.ts
+/loki/node_modules/sift/src/index.js
+/loki/node_modules/sift/src/index.js.map
+/loki/node_modules/sift/src/operations.d.ts
+/loki/node_modules/sift/src/operations.js
+/loki/node_modules/sift/src/operations.js.map
+/loki/node_modules/sift/src/utils.d.ts
+/loki/node_modules/sift/src/utils.js
+/loki/node_modules/sift/src/utils.js.map
